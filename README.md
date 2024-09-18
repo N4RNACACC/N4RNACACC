@@ -1,6 +1,8 @@
 # Hi ! 
-### There is N4RNAC !
-
+```C#
+using System;
+Console.WriteLine("There is H4RNAC !")
+```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N4RNACACC&show_icons=true&theme=tokyonight)
 [![Csharp](https://img.shields.io/badge/code-C%23-purple)](https://dotnet.microsoft.com/zh-cn/languages/csharp)
