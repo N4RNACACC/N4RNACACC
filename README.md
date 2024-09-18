@@ -1,6 +1,5 @@
 # Hi ! 
 ```Csharp
-    using System;
     Console.WriteLine("There is H4RNAC !")
 ```
 
