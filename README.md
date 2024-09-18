@@ -1,7 +1,7 @@
 # Hi ! 
-```C#
-using System;
-Console.WriteLine("There is H4RNAC !")
+```Csharp
+    using System;
+    Console.WriteLine("There is H4RNAC !")
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N4RNACACC&show_icons=true&theme=tokyonight)
