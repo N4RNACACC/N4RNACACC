@@ -10,4 +10,4 @@ Console.WriteLine("There is H4RNAC !")
 
 [![N4RNAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=N4RNACACC&show_icons=true&theme=tokyonight)](https://github.com/N4RNACACC)
 
-[![img](https://pixiv.re/118626927.png)](https://pixiv.net/artworks/118626927)
+[![img](img/118626927_p0.jpg)](https://pixiv.net/artworks/118626927)
